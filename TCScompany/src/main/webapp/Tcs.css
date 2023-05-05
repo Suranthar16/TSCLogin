@@ -1,0 +1,33 @@
+@charset "ISO-8859-1";
+
+main{
+	align-content: center;
+}
+
+
+
+
+h1{
+    text-align: center;
+    color:#800080;
+}
+
+
+*{
+	box-sizing:border-box;
+}
+
+
+body{
+
+    background: rgb(118, 195, 220);
+    font-family: 'Poppins', sans-serif; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    hight:90vh;
+    margin: 0;
+}
+
+
+
